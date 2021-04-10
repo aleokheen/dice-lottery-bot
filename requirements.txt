@@ -1,0 +1,4 @@
+aiogram~=2.12.1
+aioredis
+requests~=2.25.1
+motor~=2.3.1
